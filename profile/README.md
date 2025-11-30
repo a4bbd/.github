@@ -14,17 +14,10 @@ At A4BBD, our core focus is **software development**. We build custom, scalable,
 - **Custom business management systems** (ERP, HR, POS, CRM, Inventory, etc.)  
 - **API integrations & third-party services**  
 - **Maintenance & post-launch support**
-
----
-
-## 🚀 What We Do
-
-We're a full-stack development team focused on creating robust, scalable, and beautiful web applications. Our expertise spans across modern web technologies, from powerful backend APIs to stunning frontend experiences.
-
-
-
+ 
 ## 🧩 Our Technology Stack
 
+We're a full-stack development team focused on creating robust, scalable, and beautiful web applications. Our expertise spans across modern web technologies, from powerful backend APIs to stunning frontend experiences.
 Below are the major technologies our team uses for scalable, maintainable, and modern software development.
  
  
