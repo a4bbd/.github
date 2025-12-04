@@ -72,17 +72,6 @@ For business inquiries or collaboration:
 - **Phone:** +880 1671-446728
 - **Location:** 760 Shorgo Lan, West Shewrapara, Dhaka, Bangladesh  
 
----
-
-## 📝 How to Use / Contribute
-
-If you are collaborating with us or contributing:
-
-- Fork this repo  
-- Create a new branch  
-- Add your feature or fix  
-- Submit a pull request  
-- Our team will review & merge following QA checks  
 
 ---
 
